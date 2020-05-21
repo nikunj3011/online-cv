@@ -57,7 +57,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: BTech, Information Technology
+    - degree: Information Technology,BTech
       university: CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY
       time: 2015 - 2019
       details: |
@@ -82,45 +82,45 @@ education:
 experiences:
     - role: Game Developer
       time: 2018 - 2019
-      company: Hari Skyline, Ahmedabad, India
+      company: Hari Skyline, Ahmedabad, Gujarat, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        In Educational App the app’s focus has a strong connection
+        to the KIDS which are bad at MATHS. User will enhance learning basic by starting from basics and 
+        to higher level like VEDIC MATHS. The project was carried out to develop a 3D game that could be 
+        used for fun and as an efficient way of teaching. Also some part of the project was carried out in
+        AR and VR to learn new technologies emerging in the field. The game engine used for the project was Unity 2019.
+          - Unity 3D
+          - AR/VR Basic Game
+    - role: Part-Time Customer Service and Pizza Maker
+      time: 2019 - Current
+      company: Papa Johns Pizza, Moncton, NB, Canada
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Im currently working as part time in Papa Johns Pizza while studing Gaming Experiece development course 
+        in NBCC. While working I developed basic skills to how to please and deal with customers and of course make better pizza :D. 
+        I now have basic knowledge of economy of canada and supply chain management while working along with manager.
+        I developed time management skills and soft skills such as Communication skills, Fluency in English, Teamwork, Work Ethic,
+        Adaptability, Learning from others, Open-mindedness and much more.
+        
+          - Customer Service
+          - Cook
           
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of my projects till now.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Education App
+        link: "https://github.com/nikunj3011/EducationGame"
+        tagline: " In Educational App the app’s focus has a strong connection
+        to the KIDS which are bad at MATHS. User will enhance learning basic by starting from basics and 
+        to higher level like VEDIC MATHS. The project was carried out to develop a 3D game that could be 
+        used for fun and as an efficient way of teaching. Also some part of the project was carried out in
+        AR and VR to learn new technologies emerging in the field. The game engine used for the project was Unity 2019.
+        You can play the game here https://nikunj3011.github.io/EducationGame "
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Whatsapp Clash Royale Stickers
+        link: "https://github.com/nikunj3011/CR-Stickers"
+        tagline: "Simple stickers app for whatsapp using Android Studio."
 
       - title: Tempo
         link: "#"
@@ -135,7 +135,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certifications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -179,4 +179,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Nikunj Rathod</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
