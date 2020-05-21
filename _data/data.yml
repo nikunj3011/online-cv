@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -19,7 +19,7 @@ sidebar:
     github: nikunj3011
     gitlab:
     bitbucket:
-    twitter: '@OrangeBrat'
+    twitter: '@nikunj3011'
     stack-overflow: 6618016/nikunj-rathod # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -50,32 +50,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Just another human being who wants to know how universe works with computers, games and maybe algorithms.
 education:
-    - degree: Information Technology,BTech
+    - degree: Information Technology Engineer,BTech
       university: CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY
       time: 2015 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I learned the basics till mastery in Computers. How they are made to how to use them properly to make life better.
+        Many new programming languages, new thing explored, tons of friends made worldwide, various new projects, 
+        various new inventions breakdown, got to see the universe in new way, many certificates, best days left behind with best memories.
+          - Programming
+          - Hardware
     - degree: Information technology - Gaming Experience Development
       university: NBCC (New Brunswick Community College)
       time: 2019 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        I'm interested in making games so Im here. 
         pretium quis, sem.
           - Bullet point
           - Bullet point
