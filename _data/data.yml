@@ -184,16 +184,19 @@ skills:
       - name: Web - HTML5, CSS,SCSS, AJAX, WebAR.js, Three.js, JQuery, JQuery Mobile, Node.js, Vue.js, React, Jquery Mobile, Bootstrap, JSON, XML, JSP, Servlet, JSTL, WordPress
         level: 60%
         
-      - name: IDE - Android Studio, NetBeans, Visual Studio, Visual Studio Code
+      - name: IDE - Android Studio, NetBeans, Visual Studio, Visual Studio Code, Anaconda, JupyterLab, Google Colab
         level: 70%
 
       - name: Mobile Development - Android Studio, Flutter
+        level: 50%
+      
+      - name: Microsoft Office- Word, Excel, PowerPoint
         level: 50%
         
       - name: Operating System - Windows, Linux, Kali Linux, Manjaro Linux
         level: 80%
 
-      - name: Cloud - AWS, Google, Firebase, Github, Git
+      - name: Cloud - AWS, Google, Firebase, IBM, Github, Git
         level: 60%
         
       - name: Analytics - Youtube analytics, Google Analytics, Splunk
