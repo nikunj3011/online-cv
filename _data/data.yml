@@ -172,43 +172,42 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Programming Languages: C++, Java, Python
+      - name: Programming Languages - C++, Java, Python
         level: 75%
 
-      - name: Programming Languages: JavaScript, Matlab, Processing, C#, Dart, PHP
+      - name: Programming Languages - JavaScript, Matlab, Processing, C#, Dart, PHP
         level: 60%
         
-      - name: DataBase: SQL server, Oracle SQL, MySQL, Hadoop, AWS S3, Google BigQuery, JDBC
+      - name: DataBase - SQL server, Oracle SQL, MySQL, Hadoop, AWS S3, Google BigQuery, JDBC
         level: 65%
         
-      - name: Web: HTML5, CSS,SCSS, AJAX, WebAR.js, Three.js, JQuery, JQuery Mobile, Node.js, Vue.js, React, Jquery Mobile, Bootstrap, JSON, XML, JSP, Servlet, JSTL
+      - name: Web - HTML5, CSS,SCSS, AJAX, WebAR.js, Three.js, JQuery, JQuery Mobile, Node.js, Vue.js, React, Jquery Mobile, Bootstrap, JSON, XML, JSP, Servlet, JSTL, WordPress
         level: 60%
         
-      - name: IDE: Android Studio, NetBeans, Visual Studio, Visual Studio Code
+      - name: IDE - Android Studio, NetBeans, Visual Studio, Visual Studio Code
         level: 70%
 
-      - name: Mobile Development: Android Studio, Flutter
+      - name: Mobile Development - Android Studio, Flutter
         level: 50%
         
-      - name: Operating System: Windows, Linux, Kali Linux, Manjaro Linux
+      - name: Operating System - Windows, Linux, Kali Linux, Manjaro Linux
         level: 80%
 
-      - name: Cloud: AWS, Google
+      - name: Cloud - AWS, Google, Firebase, Github, Git
         level: 60%
         
-      - name: Game Engines: Unity 3D, Unreal Engine
+      - name: Analytics - Youtube analytics, Google Analytics, Splunk
+        level: 40%
+        
+      - name: Game Engines - Unity 3D, Unreal Engine
         level: 65%
       
-      - name: Game Softwares: 3ds Max, Nuke, Substance Painter, Substance Designer, Houdini, Blender, V-ray and Phoenix FD for 3ds Max
+      - name: Game Softwares - 3ds Max, Nuke, Substance Painter, Substance Designer, Houdini, Blender, V-ray and Phoenix FD for 3ds Max
         level: 65%
         
-      - name: Creative Softwares: Photoshop, Illustrator, After Effects
+      - name: Creative Softwares - Photoshop, Illustrator, After Effects
         level: 70%
-
-      
-
-      
-      
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
