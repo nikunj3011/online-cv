@@ -175,7 +175,7 @@ skills:
       - name: Programming Languages - C++, Java, Python
         level: 75%
 
-      - name: Programming Languages - JavaScript, Matlab, Processing, C#, Dart, PHP
+      - name: Programming Languages - JavaScript, Matlab, Processing, C#, Dart, PHP, Qt
         level: 60%
         
       - name: DataBase - SQL server, Oracle SQL, MySQL, Hadoop, AWS S3, Google BigQuery, JDBC
