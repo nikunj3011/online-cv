@@ -33,6 +33,9 @@ sidebar:
 
       - idiom: Gujarati
         level: Native
+        
+      - idiom: Sanskrit
+        level: Native
 
     interests:
       - item: Gaming
@@ -46,11 +49,20 @@ sidebar:
         
       - item: Creative Coding
         link:
+       
+      - item: Physics
+        link:
+        
+      - item: Chemistry
+        link:
+        
+      - item: Space
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Just another human being who wants to know how universe works with computers, games and maybe algorithms.
+      Just another human being who wants to know how universe works with computers, games and algorithms.
 education:
     - degree: Information Technology Engineer,BTech
       university: CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY
@@ -61,24 +73,29 @@ education:
         various new inventions breakdown, got to see the universe in new way, many certificates, best days left behind with best memories.
           - Programming
           - Hardware
+          - Major Computer science Courses
     - degree: Information technology - Gaming Experience Development
       university: NBCC (New Brunswick Community College)
       time: 2019 - 2021
       details: |
-        I'm interested in making games so Im here. 
+        I'm interested in making games so Im took this program. Im learning C++ language and Qt for GUI as a major language 
+        to create simple games. I will also learn how to develop game engine next semester. 
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Game Engine
+          - C++
 experiences:
     - role: Game Developer
       time: 2018 - 2019
       company: Hari Skyline, Ahmedabad, Gujarat, India
       details: |
-        In Educational App the app’s focus has a strong connection
-        to the KIDS which are bad at MATHS. User will enhance learning basic by starting from basics and 
-        to higher level like VEDIC MATHS. The project was carried out to develop a 3D game that could be 
-        used for fun and as an efficient way of teaching. Also some part of the project was carried out in
-        AR and VR to learn new technologies emerging in the field. The game engine used for the project was Unity 2019.
+        I had done internship in this company as a part of graduating in University in Btech in Information Technology. 
+        Here as a part of my final project I learned Unity gaming engine and developed a basic 3D game. Also I learned 
+        AR and VR development along the way. I also learned many game developing and some other software used in Game development.
+        Such as 3ds Max, After Effects, Illustrator, Photoshop, Nuke basics, Substance Painter, Substance Designer, a bit of Houdini,
+        a bit of Blender, V-ray and Phoenix FD for 3ds Max, and other things. I explored more in Unity Game engine and got to know new things.
+        I got to know about workplace enviornment. I developed soft skills too such as Time management, Communication skills,
+        Work in group, Teamwork, Work Ethic, Adaptability and some others.
+    
           - Unity 3D
           - AR/VR Basic Game
     - role: Part-Time Customer Service and Pizza Maker
@@ -89,8 +106,7 @@ experiences:
         in NBCC. While working I developed basic skills to how to please and deal with customers and of course make better pizza :D. 
         I now have basic knowledge of economy of canada and supply chain management while working along with manager.
         I developed time management skills and soft skills such as Communication skills, Fluency in English, Teamwork, Work Ethic,
-        Adaptability, Learning from others, Open-mindedness and much more.
-        
+        Adaptability, Learning from others, Open-mindedness and much more.        
           - Customer Service
           - Cook
           
@@ -106,67 +122,93 @@ projects:
         to higher level like VEDIC MATHS. The project was carried out to develop a 3D game that could be 
         used for fun and as an efficient way of teaching. Also some part of the project was carried out in
         AR and VR to learn new technologies emerging in the field. The game engine used for the project was Unity 2019.
-        You can play the game here - [Education Game](nikunj3011.github.io/EducationGame)  "
+        You can play the game here - nikunj3011.github.io/EducationGame "
+      
+      - title: Machine Learning Projects from Andrew NG courses
+        link: "https://github.com/nikunj3011/Machine_Learning"
+        tagline: "All the projects done while leaning Machine Learning from coursera course using Matlab."
 
       - title: Whatsapp Clash Royale Stickers
         link: "https://github.com/nikunj3011/CR-Stickers"
         tagline: "Simple stickers app for whatsapp using Android Studio."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Basic Shooter Game
+        link: "https://github.com/nikunj3011/Box-Shooterr"
+        tagline: "It is a 3D shooting game. It has first person view of game.There are three types of that will be shoot by player and
+        according to box time and score will change."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Web AR
+        link: "https://github.com/nikunj3011/bdayar"
+        tagline: "Show AR content on Web Platform using WebAR.js."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
 
 publications:
     title: Certifications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Some Certifications I have done till now
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Machine Learning
+        link: "https://www.coursera.org/learn/machine-learning"
+        authors: Andrew NG
+        conference: Coursera
+        
+      - title: IBM Data Science Professional
+        link: "https://www.coursera.org/professional-certificates/ibm-data-science"
+        authors: Joseph Santarcangelo, Alex Aklson, Rav Ahuja, Polong Lin, SAEED AGHABOZORGI
+        conference: Coursera
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Introduction to Algorithms and Analysis
+        link: "https://nptel.ac.in/courses/106/105/106105164/"
+        authors: Prof. Sourav Mukhopadhyay
+        conference: NPTEL
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Introduction to operating systems
+        link: "https://nptel.ac.in/courses/106/106/106106144/"
+        authors: Prof. Chester Rebeiro
+        conference: NPTEL
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Programming Languages: C++, Java, Python
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Programming Languages: JavaScript, Matlab, Processing, C#, Dart, PHP
         level: 60%
+        
+      - name: DataBase: SQL server, Oracle SQL, MySQL, Hadoop, AWS S3, Google BigQuery, JDBC
+        level: 65%
+        
+      - name: Web: HTML5, CSS,SCSS, AJAX, WebAR.js, Three.js, JQuery, JQuery Mobile, Node.js, Vue.js, React, Jquery Mobile, Bootstrap, JSON, XML, JSP, Servlet, JSTL
+        level: 60%
+        
+      - name: IDE: Android Studio, NetBeans, Visual Studio, Visual Studio Code
+        level: 70%
+
+      - name: Mobile Development: Android Studio, Flutter
+        level: 50%
+        
+      - name: Operating System: Windows, Linux, Kali Linux, Manjaro Linux
+        level: 80%
+
+      - name: Cloud: AWS, Google
+        level: 60%
+        
+      - name: Game Engines: Unity 3D, Unreal Engine
+        level: 65%
+      
+      - name: Game Softwares: 3ds Max, Nuke, Substance Painter, Substance Designer, Houdini, Blender, V-ray and Phoenix FD for 3ds Max
+        level: 65%
+        
+      - name: Creative Softwares: Photoshop, Illustrator, After Effects
+        level: 70%
+
+      
+
+      
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
