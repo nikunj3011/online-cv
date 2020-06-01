@@ -157,6 +157,16 @@ publications:
         link: "https://www.coursera.org/professional-certificates/ibm-data-science"
         authors: Joseph Santarcangelo, Alex Aklson, Rav Ahuja, Polong Lin, SAEED AGHABOZORGI
         conference: Coursera
+        
+      - title: Computer Architecture
+        link: "https://www.coursera.org/learn/comparch"
+        authors: David Wentzlaff
+        conference: Coursera
+        
+      - title: Learn to Program- The Fundamentals
+        link: "https://www.coursera.org/learn/learn-to-program"
+        authors: Jennifer Campbell, Paul Gries
+        conference: Coursera
 
       - title: Introduction to Algorithms and Analysis
         link: "https://nptel.ac.in/courses/106/105/106105164/"
