@@ -163,6 +163,16 @@ publications:
         authors: David Wentzlaff
         conference: Coursera
         
+      - title: Deep Learning
+        link: "https://www.coursera.org/specializations/deep-learning"
+        authors: Andrew NG
+        conference: Coursera
+        
+      - title: Reinforcement Learning
+        link: "https://www.coursera.org/specializations/reinforcement-learning"
+        authors: Adam White
+        conference: Coursera
+        
       - title: Learn to Program- The Fundamentals
         link: "https://www.coursera.org/learn/learn-to-program"
         authors: Jennifer Campbell, Paul Gries
